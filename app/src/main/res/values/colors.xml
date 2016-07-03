@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#9E9E9E</color>
+    <color name="category_events">#666666</color>
+    <color name="category_restaurants">#B6B6B6</color>
+    <color name="category_places">#DDDDDD</color>
+    <color name="category_exits">#333333</color>
+    <color name="primary_color">#4A312A</color>
+    <color name="primary_dark_color">#455A64</color>
+    <color name="light_grey_background">#CFD8DC</color>
+    <color name="text_color">#FFFFFF</color>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="list_image_width">88dp</dimen>
+    <dimen name="list_image_height">88dp</dimen>
+    <!-- Default screen margins -->
+    <dimen name="list_item_padding_top">16dp</dimen>
+    <dimen name="list_item_padding_left">16dp</dimen>
+    <dimen name="category_text_size">18sp</dimen>
+    <dimen name="list_item_padding">6dp</dimen>
+    <dimen name="list_item_left_padding">12dp</dimen>
+</resources>
